@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	DefaultRetries      = 5
+	DefaultRetries      = 20
 	DefaultSleepSeconds = 5
 )
 
